@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This displays a square that bounces around the screen and can be controlled by the user by the 8 inputs.
 
 ## How to test
 
-Explain how to use your project
+Plug in the VGA and see if you can control the box
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A VGA cable, the 8 input switches
